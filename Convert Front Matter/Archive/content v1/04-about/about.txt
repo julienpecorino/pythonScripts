@@ -1,7 +1,0 @@
-title:
-About me
-----
-
-sumup:
-Hi my name is Julien. I'm a Senior UX/UI Designer with +10 years experience. I'm a creative with strong technical knowledge focusing on user need, usability and elegant design solutions. Feel free to contact me anytime. Thanks!
-----
