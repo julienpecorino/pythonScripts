@@ -1,0 +1,25 @@
+label:
+Monese Android app
+----
+
+client:
+----
+
+datestamp:
+Apr 2015 / fev 2016
+----
+
+projectheadline:
+# Monese Android app
+----
+
+description:
+### UI Design. Company: (link: https://www.monese.com/ text: Monese class: wordlink popup: yes)
+----
+
+details:
+Monese is an online financial service helping users to open a current account in 3 minutes. From the current brand, I redesigned and improved the Android app. I've also contributed to the new brand design.
+----
+
+links:
+----

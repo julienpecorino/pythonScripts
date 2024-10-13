@@ -1,0 +1,28 @@
+label:
+Party Drop
+----
+
+client:
+Red Bull
+----
+
+datestamp:
+01 / Feb / 2012
+----
+
+projectheadline:
+# Red Bull Party Drop
+----
+
+description: 
+### Game Design. Agency: (link: http://rehabstudio.com text: +rehabstudio class: wordlink popup: no)
+----
+
+details:
+Red Bull Party Drop is an engaging online game where players are tasked with keeping house parties lively by delivering Red Bull. They navigate a miniature Red Bull vehicle across the city, requiring quick action and strategy. It's an entertaining game that offers plenty of fun.
+In my role, I collaborated with the team to conceptualize the game's business logic and create the wireframes. I was responsible for creating the 3D model of the Red Bull Car, and I also designed the characters and the environment. The game's city is made up of modular elements designed in an isometric perspective, which are pieced together to form a vast urban landscape. This game was build in Flash and Papervison 3d.
+
+----
+
+links:
+----

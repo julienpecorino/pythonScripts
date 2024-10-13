@@ -1,0 +1,29 @@
+label:
+Photo Booth
+----
+
+client:
+Google
+----
+
+datestamp:
+15 / May / 2011
+----
+
+projectheadline:
+# Google Photo Booth
+----
+
+description: 
+### Lead Design & Ux. Agency: (link: http://rehabstudio.com text: +rehabstudio class: wordlink popup: no)
+----
+
+details:
+Google Photo Booth is a fan content generated experiment made during the London 2012 olympic games. Photo Booth is a re-brandable app used for different events. I’ve worked closely with the developer to give support & clear feedbacks, then through a lot of user testing we delivered a high touch friendly experience.
+----
+
+links:
+(link: http://rehabstudio.com/projects/photobooth text: See the video class: simplelink popup: yes)
+----
+
+

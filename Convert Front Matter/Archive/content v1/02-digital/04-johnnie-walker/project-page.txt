@@ -1,0 +1,34 @@
+label:
+Drive of Lifetime
+----
+
+client:
+Johnnie Walker
+----
+
+datestamp:
+5 / Oct / 2011
+----
+
+projectheadline:
+# Johnnie Walker Drive of a Lifetime
+----
+
+description: 
+### Design & Animation. Agency: (link: http://rehabstudio.com text: +rehabstudio class: wordlink popup: no)
+----
+
+details:
+Drive of a Lifetime is an high immersive video experience featuring user’s personal info drawn in from Facebook, customised voiceover and live footage imported from your webcam. We created a bold minimal graphic style based on the current guideline but with some subtle improvement on textures & lighting. See the (link:/lab/johnnie-walker-sketching text: initial sketching class:wordlink).
+----
+
+links:
+(link: http://rehabstudio.com/projects/drive-of-a-lifetime text: See the Video class: simplelink popup: yes)
+----
+
+moreinfolink:
+(link:/lab/johnnie-walker-sketching text: See the initial sketching class:big-text-link)
+----
+
+
+

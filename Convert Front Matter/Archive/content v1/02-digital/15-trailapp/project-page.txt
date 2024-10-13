@@ -1,0 +1,25 @@
+label:
+Trail web app
+----
+
+client:
+----
+
+datestamp:
+Mar-Sep 2016
+----
+
+projectheadline:
+# Trail web application
+----
+
+description:
+### UI Design / Frontend. Company: (link: http://www.trailapp.com text: Trailapp class: wordlink popup: yes)
+----
+
+details:
+Trail is a smart checklist for operations management that helps any organization with repeat processes to stay organized. I redesigned a cleaner and simpler user interface and as a Frontend Developer, I programmed UI components and the live Design System.
+----
+
+links:
+----

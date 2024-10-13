@@ -1,0 +1,25 @@
+label:
+Arena Print
+----
+
+client:
+----
+
+datestamp:
+Apr-Sept / 2018
+----
+
+projectheadline:
+# E-commerce, Screen Printing
+----
+
+description:
+### UX/UI Design. Client: (link: https://arenaprints.com/ text: Arena class: wordlink popup: yes)
+----
+
+details:
+Arena Print is an e-commerce website where customers can choose different print technics to customize their apparel. I was in charge of user testing, ideation, wireframing, interface design, frontend. We created an MVP in two weeks then the entire product.
+----
+
+links:
+----

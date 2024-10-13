@@ -1,0 +1,30 @@
+label:
+Connected Classrooms
+----
+
+client:
+Google
+----
+
+datestamp:
+12 / Oct / 2013
+----
+
+projectheadline:
+# Google Connected Classrooms
+----
+
+description: 
+### Branding & Icons. Agency: (link: http://rehabstudio.com text:+rehabstudio class: wordlink popup: no)
+----
+
+details:
+Connected Classrooms aims to connect educative organisations to teachers via Hangout. Through the inbuilt calendar, teachers can find the right video lesson for their classrooms. We’ve created a distinct sub-brand. By twisting the Google red colour into orange we gave a very joyful feeling, the icon design is base on a simple stroke style and the linked ‘OO’ from rooms reflects this idea of connections.
+----
+
+links:
+(link: http://connectedclassrooms.withgoogle.com/ text: Visit Connect Classrooms class: simplelink popup: yes)
+----
+
+
+

@@ -1,0 +1,30 @@
+label:
+The Timeline
+----
+
+client:
+Watermill
+----
+
+datestamp:
+20 / Jul / 2009
+----
+
+projectheadline:
+Watermill Agency Portfolio
+----
+
+description: 
+Flash Developer. Agency: (link: http://www.deleteagency.com/ text: Delete class: wordlink popup: yes)
+----
+
+details:
+We made a minimalist portfolio for Watermill advertising agency based in London. Users can explore all projects within a long horizontal timeline by scrolling from left to right: past to present. When the client adds a new project, the timeline is growing and make the experience different every updates.
+----
+
+links:
+(link: http://www.watermill-london.com text:  Visit Wattermill class: simplelink popup: yes)
+----
+
+
+

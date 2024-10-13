@@ -1,0 +1,26 @@
+label:
+The Beauty Hub
+----
+
+client:
+Osmose
+----
+
+datestamp:
+12 / Oct / 2013
+----
+
+projectheadline:
+# Osmose Beauty Hub
+----
+
+description: 
+### Branding & Strategy, Print and more...
+----
+
+details:
+I created the full branding for Osmose: a beauty hub were customers can come to relax, feel like at home and get the best beauty cares. Based on personalised cosmetic advices Osmose has developed a truth & strong relationship with customers. Osmose will promote soon new products via micro campaigns hosted in a digital hub accessible from smart phones to large computer screens to replace the print medium…
+----
+
+
+

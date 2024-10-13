@@ -1,0 +1,27 @@
+label:
+The Guide to Looking Good
+----
+
+client:
+Red Bull
+----
+
+datestamp:
+01 / Feb / 2012
+----
+
+projectheadline:
+# The Red Bull Guide to Looking Good
+----
+
+description: 
+### Design & Animation. Agency: (link: http://rehabstudio.com text: +rehabstudio class: wordlink popup: no)
+----
+
+details:
+The Red bull Guide to Looking Good is an interactive digital campaign based on a story telling idea. Users are at the center of the experience, meanwhile they scroll down the story appears revealing words and gorgeous animations.
+----
+
+links:
+(link: http://fitness.redbull.sg text: Visit The Guide to Looking Good  class: simplelink popup: yes)
+----

@@ -1,0 +1,35 @@
+label:
+Big Tent
+----
+
+client:
+Google
+----
+
+datestamp:
+20 / Nov / 2011
+----
+
+projectheadline:
+# Google Big Tent
+----
+
+description: 
+### Ideation & Ux, Design. Agency: (link: http://rehabstudio.com text: +rehabstudio class: wordlink popup: no)
+----
+
+details:
+The Big Tent events are talks and debates initiated by Google to speak about the Internet hottest topics and issues. The Big tent Youtube channel is hub to group all videos and informations about the future events, the navigation based on a timeline & filters makes the content easy to browse.
+----
+
+links:
+(link: http://www.youtube.com/user/bigtentevents?gl=US&ob=0&feature=results_main text: Visit Big Tent class: simplelink popup: yes)
+----
+
+
+
+See the initial (link: http://# text: sketching & wireframes class: big-text-link popup: no)
+
+See all initial (link: http://# text: sketching & wireframes here. class: wordlink popup: no)
+
+
